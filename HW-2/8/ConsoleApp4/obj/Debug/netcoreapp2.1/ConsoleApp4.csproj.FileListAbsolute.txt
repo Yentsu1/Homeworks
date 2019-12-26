@@ -1,0 +1,11 @@
+F:\Hillel\C#\Task2\8\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.deps.json
+F:\Hillel\C#\Task2\8\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.json
+F:\Hillel\C#\Task2\8\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.dev.json
+F:\Hillel\C#\Task2\8\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.dll
+F:\Hillel\C#\Task2\8\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.pdb
+F:\Hillel\C#\Task2\8\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csprojAssemblyReference.cache
+F:\Hillel\C#\Task2\8\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+F:\Hillel\C#\Task2\8\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfoInputs.cache
+F:\Hillel\C#\Task2\8\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
+F:\Hillel\C#\Task2\8\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
+F:\Hillel\C#\Task2\8\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb

@@ -1,0 +1,11 @@
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.deps.json
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.json
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.runtimeconfig.dev.json
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.dll
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\bin\Debug\netcoreapp2.1\ConsoleApp2.pdb
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csprojAssemblyReference.cache
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfoInputs.cache
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.AssemblyInfo.cs
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.dll
+F:\Hillel\C#\Task-Methods\3\ConsoleApp2\obj\Debug\netcoreapp2.1\ConsoleApp2.pdb
